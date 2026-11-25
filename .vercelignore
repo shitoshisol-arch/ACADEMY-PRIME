@@ -1,0 +1,6 @@
+node_modules
+.next
+backend
+frontend
+*.log
+tsconfig.tsbuildinfo

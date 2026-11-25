@@ -1,0 +1,16 @@
+.vercel
+.env*
+
+node_modules
+.next
+.turbo
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.mypy_cache/
+*.db
+*.sqlite3
+htmlcov/
+.DS_Store

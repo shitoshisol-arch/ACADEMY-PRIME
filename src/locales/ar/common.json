@@ -1,0 +1,33 @@
+{
+  "brand": {
+    "name": "ACADEMY PRIME",
+    "tagline": "تعلّم لتربح"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "learn": "تعلّم",
+    "courses": "الدورات",
+    "videoLibrary": "مكتبة الفيديو",
+    "partners": "الشركاء",
+    "longVideos": "فيديوهات طويلة",
+    "shortVideos": "فيديوهات قصيرة",
+    "experts": "الخبراء",
+    "rewards": "المكافآت",
+    "about": "من نحن",
+    "connectWallet": "رصيدي",
+    "login": "تسجيل الدخول",
+    "dashboard": "لوحة التحكم"
+  },
+  "language": {
+    "label": "اللغة",
+    "en": "English",
+    "ar": "العربية"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة.",
+    "product": "المنتج",
+    "company": "الشركة",
+    "legal": "قانوني",
+    "followUs": "تابعنا"
+  }
+}
